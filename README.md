@@ -10,7 +10,7 @@
 - Git / GitHub
 
 ## 📂 Projets récents
-- 🔢 [Kakuro Solver]
+- 🔢 [Spam-Classification](https://github.com/d-kebe/spam-classification)
 - 🗂️ [Portfolio PHP](https://github.com/d-kebe/Portofolio/tree/main)
 
 ## 📫 Contacts
