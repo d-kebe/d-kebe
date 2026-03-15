@@ -1,17 +1,20 @@
 # 👋 Salut, moi c'est Djiby Kebe
 
-🎓 Étudiant en L2 Informatique  
-💻 J'aime coder en C, Python et PHP  
-🚀 Actuellement en train de développer un jeu Kakuro en C++
+🎓 Étudiant en L3 Informatique à l'université de Strasbourg
+💻 J'aime coder en C, Python et Java  
+🚀 Actuellement en train de développer un jeu d'echec en **kotlin multiplatform** avec un groupe de 11 personnes 
 
 ## 🔧 Compétences
-- C / C++ / Python
+- C / C++ / Python / Java / R / Haskell
 - HTML / CSS / PHP / MySQL
 - Git / GitHub
 
 ## 📂 Projets récents
-- 🔢 [Kakuro Solver](https://github.com/toncompte/kakuro-solver)
-- 🗂️ [Portfolio PHP](https://github.com/toncompte/portfolio)
+- 🔢 [Kakuro Solver]
+- 🗂️ [Portfolio PHP](https://github.com/d-kebe/Portofolio/tree/main)
 
-📫 Contact : djibykebe777@gmail.com
+## 📫 Contacts
+- 📨 email : djibykebe777@gmail.com
+- 📞 tel : 0783550881
+- 🔗 [linkedin](linkedin.com/in/Djibykebe)
 
